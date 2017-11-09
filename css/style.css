@@ -270,6 +270,7 @@ body {
 .reference-title {
     display: inline;
     font-size: 24px;
+    font-weight: bold;
 }
 
 .reference-source {
